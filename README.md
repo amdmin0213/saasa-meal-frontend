@@ -26,9 +26,3 @@ graph TD;
        HomePage -->Recipes
        HomePage --> KindMoments
 ```
-## Screen shots
-
-![Logo](https://i.im.ge/2022/11/13/SrtKBr.home1.png)
-![Logo](https://i.im.ge/2022/11/13/SrtRo1.home2.png)
-![Logo](https://i.im.ge/2022/11/13/SrtZYm.home3.png)
-![Logo](https://i.im.ge/2022/11/13/SrtWUf.recipe.png)
